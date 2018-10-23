@@ -1,0 +1,25 @@
+"*":
+  "atom-beautify":
+    general:
+      beautifyEntireFileOnSave: false
+    html: {}
+  core:
+    audioBeep: false
+    telemetryConsent: "no"
+  editor:
+    showIndentGuide: true
+    softWrap: true
+    softWrapHangingIndent: 2
+  "fuzzy-finder":
+    prefillFromSelection: true
+  "linter-ui-default": {}
+  "prettier-atom":
+    formatOnSaveOptions:
+      enabled: true
+      showInStatusBar: true
+    prettierOptions:
+      singleQuote: true
+  "tree-view":
+    alwaysOpenExisting: true
+  welcome:
+    showOnStartup: false
